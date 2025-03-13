@@ -16,7 +16,7 @@ const BackgroundContainer = styled.div`
 
 const AnimatedShape = styled(motion.div)`
   position: absolute;
-  opacity: 0.8;
+  opacity: 0.4;
   pointer-events: none;
   will-change: transform;
   transform-origin: center;
