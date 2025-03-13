@@ -56,7 +56,7 @@ const Content: React.FC = () => {
     <ContentContainer>
       <Heading>Welcome to Measurement Labs</Heading>
       <Paragraph>
-        We are building the gatway to engineering and physical world data. Get in touch to find out more.     
+        Building the gatway to engineering and physical world data
       </Paragraph>
       <ContactButton href="mailto:contact@measurementlabs.com">
         Get in Touch
