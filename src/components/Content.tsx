@@ -58,7 +58,7 @@ const Content: React.FC = () => {
       <Paragraph>
         Building the gateway to engineering and physical world data
       </Paragraph>
-      <ContactButton href="mailto:contact@measurementlabs.com">
+      <ContactButton href="mailto:contact@measurementlabs.ai">
         Get in Touch
       </ContactButton>
     </ContentContainer>
